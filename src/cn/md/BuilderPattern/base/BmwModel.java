@@ -1,4 +1,6 @@
-package cn.md.BuilderPattern.base.sup;
+package cn.md.BuilderPattern.base;
+
+import cn.md.BuilderPattern.base.sup.CarModel;
 
 /** 
  * <Description> <br> 

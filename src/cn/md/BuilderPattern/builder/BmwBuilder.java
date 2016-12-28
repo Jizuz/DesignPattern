@@ -2,7 +2,7 @@ package cn.md.BuilderPattern.builder;
 
 import java.util.ArrayList;
 
-import cn.md.BuilderPattern.base.sup.BmwModel;
+import cn.md.BuilderPattern.base.BmwModel;
 import cn.md.BuilderPattern.base.sup.CarModel;
 import cn.md.BuilderPattern.builder.sup.CarBuilder;
 

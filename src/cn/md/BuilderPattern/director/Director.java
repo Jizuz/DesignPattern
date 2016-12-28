@@ -3,7 +3,7 @@ package cn.md.BuilderPattern.director;
 import java.util.ArrayList;
 
 import cn.md.BuilderPattern.base.BenzModel;
-import cn.md.BuilderPattern.base.sup.BmwModel;
+import cn.md.BuilderPattern.base.BmwModel;
 import cn.md.BuilderPattern.builder.BenzBuilder;
 import cn.md.BuilderPattern.builder.BmwBuilder;
 
