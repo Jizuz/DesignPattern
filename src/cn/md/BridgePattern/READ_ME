@@ -1,1 +1,7 @@
-ss
+概念：
+业务抽象角色（Abstraction）：包abstraction中的Corporation类及其实现类;
+业务实现角色（Implementor）：包implementor中的Production类及其实现类;
+
+业务抽象角色引用业务实现角色（业务抽象角色的部分实现是由业务实现角色完成的）;
+
+桥梁模式的优点就是类间解耦，两个角色都可以自己的扩展下去，不会相互影响，符合OCP原则。
