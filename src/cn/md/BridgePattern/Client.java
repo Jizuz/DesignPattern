@@ -1,9 +1,9 @@
 package cn.md.BridgePattern;
 
-import cn.md.BridgePattern.base.AnyCorporation;
-import cn.md.BridgePattern.section.Car;
-import cn.md.BridgePattern.section.Clothes;
-import cn.md.BridgePattern.section.Phone;
+import cn.md.BridgePattern.abstraction.AnyCorporation;
+import cn.md.BridgePattern.implementor.Car;
+import cn.md.BridgePattern.implementor.Clothes;
+import cn.md.BridgePattern.implementor.Phone;
 
 /** 
  * <Description> <br> 

@@ -1,4 +1,4 @@
-package cn.md.BridgePattern.section.sup;
+package cn.md.BridgePattern.implementor.sup;
 
 /** 
  * <Description> <br> 
@@ -6,7 +6,7 @@ package cn.md.BridgePattern.section.sup;
  * @version 1.0<br>
  * @CreateDate 2016年12月30日 <br>
  * @since V1.0<br>
- * @see cn.md.BridgePattern.section.sup <br>
+ * @see cn.md.BridgePattern.implementor.sup <br>
  */
 public abstract class Production {
 

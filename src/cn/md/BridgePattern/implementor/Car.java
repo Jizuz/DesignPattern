@@ -1,6 +1,6 @@
-package cn.md.BridgePattern.section;
+package cn.md.BridgePattern.implementor;
 
-import cn.md.BridgePattern.section.sup.Production;
+import cn.md.BridgePattern.implementor.sup.Production;
 
 /** 
  * <Description> 产品(汽车)<br> 
@@ -8,7 +8,7 @@ import cn.md.BridgePattern.section.sup.Production;
  * @version 1.0<br>
  * @CreateDate 2016年12月30日 <br>
  * @since V1.0<br>
- * @see cn.md.BridgePattern.section <br>
+ * @see cn.md.BridgePattern.implementor <br>
  */
 public class Car extends Production {
 

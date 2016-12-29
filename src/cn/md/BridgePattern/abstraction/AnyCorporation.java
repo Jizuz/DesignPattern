@@ -1,7 +1,7 @@
-package cn.md.BridgePattern.base;
+package cn.md.BridgePattern.abstraction;
 
-import cn.md.BridgePattern.base.sup.Corporation;
-import cn.md.BridgePattern.section.sup.Production;
+import cn.md.BridgePattern.abstraction.sup.Corporation;
+import cn.md.BridgePattern.implementor.sup.Production;
 
 /** 
  * <Description> <br> 
@@ -9,7 +9,7 @@ import cn.md.BridgePattern.section.sup.Production;
  * @version 1.0<br>
  * @CreateDate 2016年12月30日 <br>
  * @since V1.0<br>
- * @see cn.md.BridgePattern.base <br>
+ * @see cn.md.BridgePattern.abstraction <br>
  */
 public class AnyCorporation extends Corporation {
 

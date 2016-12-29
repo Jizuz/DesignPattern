@@ -1,6 +1,6 @@
-package cn.md.BridgePattern.base.sup;
+package cn.md.BridgePattern.abstraction.sup;
 
-import cn.md.BridgePattern.section.sup.Production;
+import cn.md.BridgePattern.implementor.sup.Production;
 
 /** 
  * <Description> 公司抽象类<br> 
@@ -8,7 +8,7 @@ import cn.md.BridgePattern.section.sup.Production;
  * @version 1.0<br>
  * @CreateDate 2016年12月30日 <br>
  * @since V1.0<br>
- * @see cn.md.BridgePattern.base.sup <br>
+ * @see cn.md.BridgePattern.abstraction.sup <br>
  */
 public abstract class Corporation {
 
