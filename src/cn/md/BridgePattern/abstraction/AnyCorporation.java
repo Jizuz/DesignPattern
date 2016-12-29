@@ -4,7 +4,7 @@ import cn.md.BridgePattern.abstraction.sup.Corporation;
 import cn.md.BridgePattern.implementor.sup.Production;
 
 /** 
- * <Description> <br> 
+ * <Description> 任何一家公司<br> 
  * @author Jizuz<br>
  * @version 1.0<br>
  * @CreateDate 2016年12月30日 <br>
